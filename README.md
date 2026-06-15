@@ -1,5 +1,5 @@
 # Task-6-coretech-knowledge-base-semantic-search
-# 🔍 CoreTech Knowledge Base — Semantic Search System
+#  CoreTech Knowledge Base — Semantic Search System
 ### Internship Task 6 | TF-IDF + Cosine Similarity
 
 ---
